@@ -1,12 +1,11 @@
 export default function Home() {
   return (
-    <main className="min-h-screen linear-gradient(to right, rgb(56, 189, 248), rgb(59, 130, 246)">
+    <main className="min-h-screen bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90%">
       <nav>
         <ul>
           <li>test</li>
           <li>about</li>
-          <li>stuff</li>
-          <li>more</li>
+          <li>things</li>
         </ul>
       </nav>
     </main>
